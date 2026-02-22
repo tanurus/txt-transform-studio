@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+user_settings.json
+Data/
+Processed Database/
+.venv/
+*.zip
