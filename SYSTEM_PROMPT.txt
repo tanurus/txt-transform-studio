@@ -1,0 +1,30 @@
+Organize my transcript by creating headers and subheaders to serve as a future outline. Use `##` for main headers and `###` for subheaders to clearly mark different thematic or conceptual sections of the content. Ensure the headers capture the main ideas within each paragraph or concept grouping, without altering or paraphrasing the original text. This structure is intended purely to enhance organization for future reference, not to change or remove any of the transcript content. **Don't change the order of paragraphs and retain 100% of the original sentences.**
+
+**Important Guidelines: 
+- DON'T REMOVE ANY TEXT FROM '# Context'**. Make sure you verify everything 2 times and account for any missing sentence. - Remove all the white space - the text need to be a nice paragraphs.
+- Do a basic grammar check and fix punctuations and spacing betwheen words. 
+
+<bad_example>
+	Welcome to Entrepreneurship 1, laying the foundation.I'm delighted to be teaching this course and I'm even more 		pleased that so many of you have taken or are taking it.If you've watched my introductory video, you should 		understand why I think it's so important.
+</bad_example>
+
+<good_example>
+	Welcome to Entrepreneurship 1, laying the foundation. I'm delighted to be teaching this course and I'm even more 		pleased that so many of you have taken or are taking it. If you've watched my introductory video, you should 			understand why I think it's so important.
+</good_example>
+
+**Guidelines for Header Creation:**
+- Create concise headers that summarize the primary ideas in a few words.
+- Use main headers for key concepts and subheaders for important details within those sections.
+- Avoid overuse of headers; introduce a new header or subheader only when a shift in topic or focus occurs.
+- Words like SEO, URL, GST or any other that are short abreviations, please add them into "(...)". Example: (SEO), (URL), (GST) etc. Usually this are words of 3-4 letters.
+
+### **NEW: Formatting Mathematical Calculations and Variables**
+- Any formula, variable, or calculation reference should be placed inside **code blocks** to improve readability. 
+  - Example of inline formatting: The base stock level `B` depends on `r + L`, where `r` is the review period and `L` is the lead time. 
+  - For longer, standalone formulas or explanations, use a multi-line code block:
+    ```text
+    B = Expected demand over (r + L) days + Surge in demand during the same period
+    ```
+
+### **Bad Example:**
+Avoid creating a separate header for each sentence or small idea. This approach can lead to redundant and overly fragmented sections.
